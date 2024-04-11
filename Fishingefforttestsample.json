@@ -1,31 +1,345 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [43.8, 71.2]
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "date": "2022-05",
+          "geartype": "trawlers",
+          "hours": 1.975,
+          "vesselIDs": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [43.8, 71.2]
+        }
       },
-      "properties": {
-        "date": "2022-05",
-        "geartype": "trawlers",
-        "hours": 1.975,
-        "vesselIDs": 2
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [47.4, 76.3]
+      {
+        "type": "Feature",
+        "properties": {
+          "date": "2022-05",
+          "geartype": "set_longlines",
+          "hours": 1.0144444444444445,
+          "vesselIDs": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [47.4, 76.3]
+        }
       },
-      "properties": {
-        "date": "2022-05",
-        "geartype": "set_longlines",
-        "hours": 1.0144444444444445,
-        "vesselIDs": 1
+      {
+        "type": "Feature",
+        "properties": {
+          "date": "2022-05",
+          "geartype": "trawlers",
+          "hours": 0.5333333333333333,
+          "vesselIDs": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [48.5, 76.4]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "date": "2022-05",
+          "geartype": "fishing",
+          "hours": 0.7805555555555556,
+          "vesselIDs": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [47.2, 75]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "date": "2022-05",
+          "geartype": "trawlers",
+          "hours": 1.9039694444444444,
+          "vesselIDs": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [27, 60.1]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "date": "2022-05",
+          "geartype": "trawlers",
+          "hours": 1.9329583333333336,
+          "vesselIDs": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [27.9, 60.1]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "date": "2022-05",
+          "geartype": "trawlers",
+          "hours": 0.999722222222222,
+          "vesselIDs": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [19.6, 54.7]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "date": "2022-05",
+          "geartype": "inconclusive",
+          "hours": 0.948888888888889,
+          "vesselIDs": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [132, 43.1]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "date": "2022-05",
+          "geartype": "trawlers",
+          "hours": 1.850277777777778,
+          "vesselIDs": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [132, 43.1]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "date": "2022-05",
+          "geartype": "set_longlines",
+          "hours": 0.9980555555555558,
+          "vesselIDs": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [144.4, 55.8]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "date": "2022-05",
+          "geartype": "fishing",
+          "hours": 0.5702777777777779,
+          "vesselIDs": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [149.7, 57.4]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "date": "2022-05",
+          "geartype": "fishing",
+          "hours": 0.7447222222222222,
+          "vesselIDs": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [147.8, 56.2]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "date": "2022-05",
+          "geartype": "trawlers",
+          "hours": 0.46777777777777785,
+          "vesselIDs": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [153.5, 58.1]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "date": "2022-05",
+          "geartype": "set_longlines",
+          "hours": 0.9952777777777779,
+          "vesselIDs": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [43, 75.1]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "date": "2022-05",
+          "geartype": "fishing",
+          "hours": 0.723888888888889,
+          "vesselIDs": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [163.3, 57.1]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "date": "2022-05",
+          "geartype": "fixed_gear",
+          "hours": 0.5658333333333333,
+          "vesselIDs": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [174.1, 61]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "date": "2022-05",
+          "geartype": "trawlers",
+          "hours": 0.6697222222222226,
+          "vesselIDs": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [176.3, 61.6]
+        }
+      },
+      {
+       
+  
+   "type": "Feature",
+        "properties": {
+          "date": "2022-05",
+          "geartype": "trawlers",
+          "hours": 0.9980555555555554,
+          "vesselIDs": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [143.5, 55.3]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "date": "2022-05",
+          "geartype": "trawlers",
+          "hours": 1.9875,
+          "vesselIDs": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [143.6, 55.1]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "date": "2022-05",
+          "geartype": "trawlers",
+          "hours": 0.9975,
+          "vesselIDs": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [143.7, 55]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "date": "2022-05",
+          "geartype": "trawlers",
+          "hours": 1.0336111111111113,
+          "vesselIDs": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [144.4, 51.3]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "date": "2022-05",
+          "geartype": "pots_and_traps",
+          "hours": 0.9605555555555555,
+          "vesselIDs": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [144.9, 49.3]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "date": "2022-05",
+          "geartype": "fixed_gear",
+          "hours": 1.0841666666666667,
+          "vesselIDs": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [145, 49.3]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "date": "2022-05",
+          "geartype": "fishing",
+          "hours": 0.235,
+          "vesselIDs": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [154.4, 53.9]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "date": "2022-05",
+          "geartype": "other_purse_seines",
+          "hours": 0.8197222222222221,
+          "vesselIDs": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [155.7, 52.9]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "date": "2022-05",
+          "geartype": "trawlers",
+          "hours": 0.321111111111111,
+          "vesselIDs": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [155.7, 52.8]
+        }
       }
-    }
-  ]
-}
+    ]
+  }
