@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [43.8, 71.2]
+      },
+      "properties": {
+        "date": "2022-05",
+        "geartype": "trawlers",
+        "hours": 1.975,
+        "vesselIDs": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [47.4, 76.3]
+      },
+      "properties": {
+        "date": "2022-05",
+        "geartype": "set_longlines",
+        "hours": 1.0144444444444445,
+        "vesselIDs": 1
+      }
+    }
+  ]
+}
